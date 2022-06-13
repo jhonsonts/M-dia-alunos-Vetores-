@@ -4,6 +4,16 @@
 # ALGORITMO DO EXERCÍCIO
 
 Início
+Dadas 6 salas
+Pedir a quantidade dos alunos em cada sala
+Somar quantidades 
+Tirar Média 
+Calcular sala com maior números de alunos
+Calcular sala com menor quantidade de alunos
+Apresentar ao usuário a média 
+Apresentar ao usuário a sala com mais alunos 
+Apresentar ao usuário a sala com menos alunos 
+
  
  
  
