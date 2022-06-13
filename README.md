@@ -4,7 +4,10 @@
 # ALGORITMO DO EXERCÍCIO
 
 Início
- 
+ Verificr a quantidade de alunos dado no vetor
+ Calcular e tirar Média 
+ Apresentar média e maior quantidade de alunos 
+ Se repetir até não haver mais dados 
  
  
     
