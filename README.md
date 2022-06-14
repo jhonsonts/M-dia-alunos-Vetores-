@@ -3,24 +3,10 @@
 ------------------------------------------------------
 # ALGORITMO DO EXERCÍCIO
 
-Início
-
-Início
-C = 1
-Soma = 0
-Enquanto C <=6 Faça
-Ler (Q[C])
-Soma = Soma + Q[C]
-C = C +1
-Fim enquanto
-Media = Soma/6
-Exibir (' A média é:', Media)
-
- 
-
-    
-Fim
+![image](https://user-images.githubusercontent.com/103973512/173478030-73291943-9373-438b-8e56-19bc04f32578.png)
 
 
---------------------------------------------------------![image](https://user-images.githubusercontent.com/103973512/173476580-1e6956c9-31c4-4e33-9586-e8dfd1cfedca.png)
+
+--------------------------------------------------------![image](https://user-images.githubusercontent.com/103973512/173477981-051af1bd-559e-42ad-966f-61a83e04b4b8.png)
+
 
