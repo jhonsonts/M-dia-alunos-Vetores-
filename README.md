@@ -4,15 +4,17 @@
 # ALGORITMO DO EXERCÍCIO
 
 Início
- Verificr a quantidade de alunos dado no vetor
- Calcular e tirar Média 
- Apresentar média e maior quantidade de alunos 
- Se repetir até não haver mais dados 
- 
- 
+C = 1
+Soma = 0
+Enquanto C <=6 Faça
+Ler (Q[C])
+Soma = Soma + Q[C]
+C = C +1
+Fim enquanto
+Media = Soma/6
+Exibir (' A média é:', Media)
     
 Fim
 
 
---------------------------------------![media alunos vetores2](https://user-images.githubusercontent.com/103973512/173420860-16ffddf6-03dc-4277-9809-023e50f1fbeb.png)
----------------
+--------------------------------------![image](https://user-images.githubusercontent.com/103973512/173477244-5337641f-fe77-4be9-a77d-606a6abbb7d0.png)
