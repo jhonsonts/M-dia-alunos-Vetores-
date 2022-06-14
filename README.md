@@ -4,21 +4,23 @@
 # ALGORITMO DO EXERCÍCIO
 
 Início
-Dadas 6 salas
-Pedir a quantidade dos alunos em cada sala
-Somar quantidades 
-Tirar Média 
-Calcular sala com maior números de alunos
-Calcular sala com menor quantidade de alunos
-Apresentar ao usuário a média 
-Apresentar ao usuário a sala com mais alunos 
-Apresentar ao usuário a sala com menos alunos 
+
+Início
+C = 1
+Soma = 0
+Enquanto C <=6 Faça
+Ler (Q[C])
+Soma = Soma + Q[C]
+C = C +1
+Fim enquanto
+Media = Soma/6
+Exibir (' A média é:', Media)
 
  
- 
- 
+
     
 Fim
 
 
---------------------------------------------------------![Media alunos vetor](https://user-images.githubusercontent.com/103973512/173413473-c04ff271-c8b0-4635-8759-bf4a86b8f451.png)
+--------------------------------------------------------![image](https://user-images.githubusercontent.com/103973512/173476580-1e6956c9-31c4-4e33-9586-e8dfd1cfedca.png)
+
