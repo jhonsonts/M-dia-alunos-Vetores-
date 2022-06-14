@@ -3,10 +3,12 @@
 ------------------------------------------------------
 # ALGORITMO DO EXERCÍCIO
 
-![image](https://user-images.githubusercontent.com/103973512/173478030-73291943-9373-438b-8e56-19bc04f32578.png)
+![image](https://user-images.githubusercontent.com/103973512/173478366-3fc1c7d2-611a-4106-9820-7eb634dfa0d7.png)
 
 
 
---------------------------------------------------------![image](https://user-images.githubusercontent.com/103973512/173477981-051af1bd-559e-42ad-966f-61a83e04b4b8.png)
+
+--------------------------------------------------------![image](https://user-images.githubusercontent.com/103973512/173478421-8ba55272-46e6-4b79-9be7-86e8d69db4ab.png)
+
 
 
